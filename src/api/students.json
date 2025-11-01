@@ -1,14 +1,5 @@
 [
-    {
-        "id": 1,
-        "name": "Rahul Sharma",
-        "rollnum": "STU001",
-        "timming": "9:00 AM - 11:00 AM",
-        "age": 20,
-        "batch": "Batch A",
-        "course": "Computer Science",
-        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
-    },
+
     {
         "id": 2,
         "name": "Priya Verma",
@@ -17,16 +8,6 @@
         "age": 22,
         "batch": "Batch B",
         "course": "Information Technology",
-        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Aman Singh",
-        "rollnum": "STU003",
-        "timming": "1:30 PM - 3:30 PM",
-        "age": 21,
-        "batch": "Batch C",
-        "course": "Electronics",
         "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
     },
     {
