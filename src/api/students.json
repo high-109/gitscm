@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "rollnum": "STU001",
+        "timming": "9:00 AM - 11:00 AM",
+        "age": 20,
+        "batch": "Batch A",
+        "course": "Computer Science",
+        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Priya Verma",
+        "rollnum": "STU002",
+        "timming": "11:00 AM - 1:00 PM",
+        "age": 22,
+        "batch": "Batch B",
+        "course": "Information Technology",
+        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aman Singh",
+        "rollnum": "STU003",
+        "timming": "1:30 PM - 3:30 PM",
+        "age": 21,
+        "batch": "Batch C",
+        "course": "Electronics",
+        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Gupta",
+        "rollnum": "STU004",
+        "timming": "3:30 PM - 5:30 PM",
+        "age": 23,
+        "batch": "Batch D",
+        "course": "Mechanical Engineering",
+        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Arjun Mehta",
+        "rollnum": "STU005",
+        "timming": "5:30 PM - 7:30 PM",
+        "age": 24,
+        "batch": "Batch E",
+        "course": "Civil Engineering",
+        "image": "https://t4.ftcdn.net/jpg/09/64/89/19/360_F_964891988_aeRrD7Ee7IhmKQhYkCrkrfE6UHtILfPp.jpg"
+    }
+]
